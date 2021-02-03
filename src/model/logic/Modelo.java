@@ -1,5 +1,4 @@
 package model.logic;
-
 import model.data_structures.ArregloDinamico;
 import model.data_structures.IArregloDinamico;
 
@@ -67,6 +66,4 @@ public class Modelo {
 	{
 		return datos.eliminar(dato);
 	}
-
-
 }
